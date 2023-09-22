@@ -1,4 +1,4 @@
 # Darkside-Ransomware
 SIEM Detection Rules 
 
-General rules that can be matched any SIEM tecnology and Security Fabric integrated with the the SIEM.
+General structure of detection rules that matches any SIEM technology on top of Cloud or On-Prem, integration with Security Fabric from CISCO, Palo Alto, FortiNET and others.
